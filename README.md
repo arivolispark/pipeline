@@ -100,8 +100,8 @@ Predict workouts need to be done
 Extend it to apply to any medication management based solutions and emergency medication management
 
 #Credits
-Deva from baba medicals India (Initial data)
-Catherin Croft Phd from Auckland University, for validating the results.
+Deva from Baba Medicals India (Initial data)
+Catherin Croft, Phd, Auckland University, New Zealand, for validating the results.
 
 ##References:
 - http://reference.medscape.com/drug/humalog-insulin-lispro-999005
